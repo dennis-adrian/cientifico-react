@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cientifico-react/precache-manifest.8fa98ed3f67645a18189cb0333ddb57d.js"
+  "/cientifico-react/precache-manifest.a4ed4f99bdf7b1a1464a5218485559c4.js"
 );
 
 self.addEventListener('message', (event) => {

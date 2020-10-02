@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cientifico-react/static/css/main.473df9ba.chunk.css",
-    "main.js": "/cientifico-react/static/js/main.ace5ce06.chunk.js",
-    "main.js.map": "/cientifico-react/static/js/main.ace5ce06.chunk.js.map",
+    "main.js": "/cientifico-react/static/js/main.9c8d0629.chunk.js",
+    "main.js.map": "/cientifico-react/static/js/main.9c8d0629.chunk.js.map",
     "runtime-main.js": "/cientifico-react/static/js/runtime-main.e5ec1b39.js",
     "runtime-main.js.map": "/cientifico-react/static/js/runtime-main.e5ec1b39.js.map",
     "static/js/2.d191c77d.chunk.js": "/cientifico-react/static/js/2.d191c77d.chunk.js",
     "static/js/2.d191c77d.chunk.js.map": "/cientifico-react/static/js/2.d191c77d.chunk.js.map",
     "index.html": "/cientifico-react/index.html",
-    "precache-manifest.8fa98ed3f67645a18189cb0333ddb57d.js": "/cientifico-react/precache-manifest.8fa98ed3f67645a18189cb0333ddb57d.js",
+    "precache-manifest.a4ed4f99bdf7b1a1464a5218485559c4.js": "/cientifico-react/precache-manifest.a4ed4f99bdf7b1a1464a5218485559c4.js",
     "service-worker.js": "/cientifico-react/service-worker.js",
     "static/css/main.473df9ba.chunk.css.map": "/cientifico-react/static/css/main.473df9ba.chunk.css.map",
     "static/js/2.d191c77d.chunk.js.LICENSE.txt": "/cientifico-react/static/js/2.d191c77d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e5ec1b39.js",
     "static/js/2.d191c77d.chunk.js",
     "static/css/main.473df9ba.chunk.css",
-    "static/js/main.ace5ce06.chunk.js"
+    "static/js/main.9c8d0629.chunk.js"
   ]
 }

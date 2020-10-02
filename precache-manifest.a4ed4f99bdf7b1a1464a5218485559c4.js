@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08c5c30c56958e11390b781ba4835e45",
+    "revision": "e79377d6040140f9097d52563ab11439",
     "url": "/cientifico-react/index.html"
   },
   {
-    "revision": "85ba806673ec83010c8f",
+    "revision": "e6688c59ef539e9115b5",
     "url": "/cientifico-react/static/css/main.473df9ba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cientifico-react/static/js/2.d191c77d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85ba806673ec83010c8f",
-    "url": "/cientifico-react/static/js/main.ace5ce06.chunk.js"
+    "revision": "e6688c59ef539e9115b5",
+    "url": "/cientifico-react/static/js/main.9c8d0629.chunk.js"
   },
   {
     "revision": "0433255954babb232a7b",
